@@ -1,0 +1,15 @@
+{
+  "name": "dibs-vcl-tester",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "jest": "^23.6.0",
+    "node-fetch": "^2.2.0"
+  }
+}
